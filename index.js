@@ -9,3 +9,11 @@ function sayHey() {
 function sayHeyFriend(friend) {
   return `Hey, ${friend}!`
 }
+
+function favoriteIceCream(iceCream) {
+  return `I love ${iceCream}`
+}
+
+function shouting(string) {
+  return string.toUpperCase
+}
